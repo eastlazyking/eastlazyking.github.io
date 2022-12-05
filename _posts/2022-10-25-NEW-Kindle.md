@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "NEW Kindle初體驗"
-date:   2015-04-18T14:25:52-05:00
+title:  "NEW Kindle"
+date:   2022-10-25
 author: F22
 categories: Record
-tags:	
-cover:  "/assets/instacode.png"
 ---
 
 2022年10月15日發售的NEW Kindle，人生第一台電子書閱讀器就是他了！
