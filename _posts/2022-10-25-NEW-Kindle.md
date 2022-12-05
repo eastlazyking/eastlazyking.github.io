@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "NEW Kindle"
+title:  "NEW Kindle初體驗"
 date:   2022-10-25
 author: F22
 categories: Record
 ---
 
 2022年10月15日發售的NEW Kindle，人生第一台電子書閱讀器就是他了！
+
+<!--more-->
 
 ### 購買入坑
 最近一年多以來一直都有在手機和PC上使用Kindle閱讀的習慣，但對於入手實體電子書閱讀器還是有點卻步，主因在於當初舊世代Kindle明明定價最低，理應是最容易吸引新手入門的產品，規格卻微妙到讓人買不下去。直到這次New Kindle規格一發佈，不但micro USB改成type-c，解析度也提升至300 dpi ，這些升級實在是太深入人心了。最重要的是，光是新商品問世就非常激起人類的購物慾，這不買說不過去吧。
