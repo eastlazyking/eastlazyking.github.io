@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile.jpg "Photo by Ishan @seefromtheskye via Unsplash"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile.jpg "Photo by Ishan @seefromtheskye via Unsplash")
 
 這是一個基於三分鐘熱度而誕生的網站。
 

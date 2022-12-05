@@ -13,7 +13,7 @@ title: Blue Terror
 subtitle: "Write for myself."
 email: 
 name: F22
-description: 
+description: "Write for myself."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
@@ -74,22 +74,22 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: 
+    url: 
     desc: Follow me on Twitter
     share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: 
+    url: 
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: 
+    url: 
     desc: Connect with me on LinkedIn
     share: false
 
