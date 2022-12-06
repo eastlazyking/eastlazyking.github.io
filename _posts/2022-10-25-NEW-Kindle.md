@@ -2,10 +2,6 @@
 title: NEW Kindle初體驗
 tags: Record
 date:   2022-10-25
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
 ---
 
 2022年10月15日發售的NEW Kindle，人生第一台電子書閱讀器就是他了！
@@ -17,6 +13,7 @@ article_header:
 
 ↓先上NEW Kindle產品頁面↓
 [【New】Kindle (16GB) 6インチディスプレイ 電子書籍リーダー ブラック 広告あり](https://www.amazon.co.jp/gp/product/B09SWTXTNV/)
+
 這次購買的是新一代NEW Kindle有廣告版，經由日亞和轉運入手。寄送方式是國際EMS，10/15寄達轉運地址，10/17轉運商寄出包裹，歷經一個星期多的煎熬等待，10/24終於拿到手。
 
 ### 使用體驗
